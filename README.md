@@ -29,8 +29,9 @@ You start with **₹10,00,000** in virtual trading capital to simulate real mark
   - **Pinch to zoom in/out** and swipe horizontally across historical price action.
   - Timeframe selection (1 Day, 5 Days, 1 Month, 6 Months, 1 Year, 5 Years).
   - Clear date markers on the horizontal axis showing days of the month.
-  - Overlay indicators: **89 Moving Average** and **Supertrend** trend-reversal markers (▲ Buy / ▼ Sell).
+  - Overlay indicators: **89 Moving Average Band**, **Supertrend** trend-reversal markers (▲ Buy / ▼ Sell), and **Fibonacci Pivot Points** (Central Pivot, R1/S1, R2/S2, R3/S3) with independent Level 1, 2, and 3 toggles.
   - Tap any candle to inspect Open, High, Low, Close, and indicator values.
+- **Customizable Indicator Settings in Settings Tab**: Tune indicator periods, multipliers, line thickness, colors, ratios, and text sizes directly inside the Settings tab with live previews and 1-tap navigation from the chart.
 - **Comprehensive Portfolio Tracking**: Monitor your open positions, unrealized and realized profit/loss, and itemized taxes paid on closed trades.
 - **Easy Portfolio Reset**: Want to try a brand new trading experiment? Reset your virtual portfolio back to ₹10,00,000 anytime with a single tap.
 
