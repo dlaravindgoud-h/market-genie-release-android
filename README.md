@@ -15,6 +15,14 @@ You start with **₹10,00,000** in virtual trading capital to simulate real mark
 ## ✨ What You Can Do With It
 
 - **Trade Popular NSE Stocks Risk-Free**: Search and track prominent Indian companies (Reliance, TCS, HDFC Bank, Tata Motors, Infosys, and more) with real-time price updates.
+- **NSE Market Heat Map**:
+  - **Dual Calculation Modes**:
+    - **Last Trade Price (LTP vs Previous Close)**: Captures total cumulative return (including overnight gap-ups/down) — ideal for evaluating multi-day swings and position holdings.
+    - **Today's Session (LTP vs Today's Open)**: Isolates pure intraday buying and selling momentum from the 9:15 AM opening bell — helping you immediately spot "gap & fade" traps where a stock opens up but sells off during the day.
+  - **Sectoral & Index Segregation**: Filter market heat maps by **Nifty 50**, **Nifty Bank**, **Nifty IT**, **Nifty Auto**, **Nifty Pharma**, **Nifty FMCG**, **Nifty Metal**, or **All NSE Stocks**.
+  - **Market Breadth Summary**: Real-time visual sentiment counters tracking Advances, Declines, and Neutral stocks.
+  - **Color-Coded Performance Buckets**: Instant 1-tap filtering across top gainers (> +3%, +1.5% to +3%), steady movers, and top decliners (< -3%, -1.5% to -3%).
+  - **Deep-Dive Constituent Tile Sheet**: Tap any stock tile to compare both calculation modes side-by-side and launch technical charts directly.
 - **Realistic Statutory Taxes & Charges**: Understand the real impact of trading costs on your returns. Market Genie automatically calculates:
   - Brokerage
   - Securities Transaction Tax (STT)
@@ -29,11 +37,17 @@ You start with **₹10,00,000** in virtual trading capital to simulate real mark
   - **Pinch to zoom in/out** and swipe horizontally across historical price action.
   - Timeframe selection (1 Day, 5 Days, 1 Month, 6 Months, 1 Year, 5 Years).
   - Clear date markers on the horizontal axis showing days of the month.
-  - Overlay indicators: **89 Moving Average Band**, **Supertrend** trend-reversal markers (▲ Buy / ▼ Sell), and **Fibonacci Pivot Points** (Central Pivot, R1/S1, R2/S2, R3/S3) with independent Level 1, 2, and 3 toggles.
+  - Overlay indicators:
+    - **89 Moving Average Band**: Dynamic ceiling and floor channel showing bullish, bearish, and neutral consolidation regimes.
+    - **Supertrend**: Trend-reversal signals (▲ Buy / ▼ Sell) and dynamic trailing stop lines.
+    - **Fibonacci Pivot Points**: Central Pivot, R1/S1, R2/S2, and R3/S3 dynamic support/resistance barriers with independent Level 1, 2, and 3 toggles.
   - Tap any candle to inspect Open, High, Low, Close, and indicator values.
 - **Customizable Indicator Settings in Settings Tab**: Tune indicator periods, multipliers, line thickness, colors, ratios, and text sizes directly inside the Settings tab with live previews and 1-tap navigation from the chart.
-- **Comprehensive Portfolio Tracking**: Monitor your open positions, unrealized and realized profit/loss, and itemized taxes paid on closed trades.
-- **Easy Portfolio Reset**: Want to try a brand new trading experiment? Reset your virtual portfolio back to ₹10,00,000 anytime with a single tap.
+- **Appearance & Theme Customization**: Switch freely between Light mode, Dark mode, or follow your device's System setting.
+- **Comprehensive Portfolio Tracking**:
+  - Monitor your open positions, unrealized and realized profit/loss, and itemized taxes paid on closed trades.
+  - **1-Tap Live Price Refresh**: Easily refresh Current Market Prices across your active holdings with a single tap.
+- **Easy Portfolio Reset**: Want to try a brand new trading experiment? Reset your virtual portfolio back to ₹10,00,000 anytime from the Settings tab with a single tap.
 
 ---
 
