@@ -19,10 +19,11 @@ You start with **₹10,00,000** in virtual trading capital to simulate real mark
   - **Dual Calculation Modes**:
     - **Last Trade Price (LTP vs Previous Close)**: Captures total cumulative return (including overnight gap-ups/down) — ideal for evaluating multi-day swings and position holdings.
     - **Today's Session (LTP vs Today's Open)**: Isolates pure intraday buying and selling momentum from the 9:15 AM opening bell — helping you immediately spot "gap & fade" traps where a stock opens up but sells off during the day.
-  - **Sectoral & Index Segregation**: Filter market heat maps by **Nifty 50**, **Nifty Bank**, **Nifty IT**, **Nifty Auto**, **Nifty Pharma**, **Nifty FMCG**, **Nifty Metal**, or **All NSE Stocks**.
-  - **Market Breadth Summary**: Real-time visual sentiment counters tracking Advances, Declines, and Neutral stocks.
+  - **All 119 Official NSE Indices across 4 Categories**: Explore comprehensive coverage categorized into **Broad Market**, **Sectoral Indices**, **Thematic Indices**, and **Strategy Indices** matching official NSE benchmarks.
+  - **Index-Level Heatmap & Market Breadth**: Visual color-coded heat tiles for the indices themselves, accompanied by real-time advance/decline/neutral sentiment breadth counters.
+  - **Interactive Constituent Drill-Down**: Tap any index tile to inspect individual constituent stocks with color-coded heatmap tiles and 1-tap access to technical price charts.
   - **Color-Coded Performance Buckets**: Instant 1-tap filtering across top gainers (> +3%, +1.5% to +3%), steady movers, and top decliners (< -3%, -1.5% to -3%).
-  - **Deep-Dive Constituent Tile Sheet**: Tap any stock tile to compare both calculation modes side-by-side and launch technical charts directly.
+  - **Deep-Dive Constituent Sheet**: Tap any stock tile to compare both calculation modes side-by-side and launch technical charts directly.
 - **Realistic Statutory Taxes & Charges**: Understand the real impact of trading costs on your returns. Market Genie automatically calculates:
   - Brokerage
   - Securities Transaction Tax (STT)
